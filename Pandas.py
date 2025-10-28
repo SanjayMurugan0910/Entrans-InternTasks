@@ -17,7 +17,6 @@ print(df)
 # 3️⃣ Access Columns
 print("\nNames column:")
 print(df['Name'])
-
 # 4️⃣ Filter Rows
 print("\nPeople with Salary > 55000:")
 print(df[df['Salary'] > 55000])
