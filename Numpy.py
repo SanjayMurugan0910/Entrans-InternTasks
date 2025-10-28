@@ -1,9 +1,6 @@
 import numpy as np
 # Create arrays
-a = np.array([
-             [1, 2, 3, 4],
-             [1, 2, 3, 4]
-             ])
+a = np.array([1, 2, 3, 4])
 b = np.array([[1, 2], [3, 4]])
 
 # Array attributes
