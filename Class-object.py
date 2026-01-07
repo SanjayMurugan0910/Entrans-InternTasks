@@ -21,6 +21,6 @@ class BankAccount:
 account1=BankAccount("123456","John Doe",1000)  
 account1.deposit(500)          # Depositing money
 account1.withdraw(200)         # Withdrawing money  
-print("Current Balance:",account1.get_balance("1234567"))  # Getting balance with correct account number
+print("Current Balance:",account1.get_balance("1234565"))  # Getting balance with correct account number
         
         
